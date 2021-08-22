@@ -23,10 +23,3 @@ interval		 = 1.5 #Seconds
 
 #Some general links used by Assitant 4.0 script
 
-gmeet_link 				= "https://meet.google.com/lookup/bmzzbz3ygp/?authuser=1"             
-classroom_home			= "https://classroom.google.com/u/1/h"
-whatsapp_link			= "https://web.whatsapp.com/"
-google_query_template 	= "https://www.google.com/search?q="
-shyam_mohan_path 		= "D:\\Collage\\Circuits\\Reference Books\\Sudhakhar shaum mohan.pdf"
-phyics_refbook_1 		="D:\\Collage\\Physics\\Texbooks\\Principles of Electronic Materials & Devices.pdf"
-phyics_refbook_2 		="D:\\Collage\\Physics\\Texbooks\\Solid State Physics.pdf"
