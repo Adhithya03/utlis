@@ -1,4 +1,4 @@
-# My-assitants
+# My-assistant
 
 Assitant 1.0 is the first assistant I made 
 
